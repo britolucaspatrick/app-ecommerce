@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_carrinho"
+            android:title="@string/carrinho" />
+        <item
+            android:id="@+id/nav_categoria"
+            android:title="@string/categoria" />
+        <item
+            android:id="@+id/nav_pedido"
+            android:title="@string/pedido" />
+        <item
+            android:id="@+id/nav_favoritos"
+            android:title="@string/favoritos" />
+        <item
+            android:id="@+id/nav_fidelidade"
+            android:title="@string/fidelidade" />
+    </group>
+
+    <item android:title="Sistema">
+        <menu>
+            <item
+                android:id="@+id/nav_minha_conta"
+                android:title="@string/minha_conta" />
+            <item
+                android:id="@+id/nav_configuracao"
+                android:title="@string/configuracao" />
+            <item
+                android:id="@+id/nav_sac"
+                android:title="@string/sac" />
+            <item
+                android:id="@+id/nav_gestao"
+                android:title="@string/gestao" />
+        </menu>
+    </item>
+
+</menu>

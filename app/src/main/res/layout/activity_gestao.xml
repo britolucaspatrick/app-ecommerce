@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.patri.refinado.Activity.GestaoActivity">
+
+    <Button
+        android:id="@+id/btn_pais"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pais" />
+
+    <Button
+        android:id="@+id/btn_estado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/estado1" />
+
+    <Button
+        android:id="@+id/btn_categoria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/categoria" />
+
+    <Button
+        android:id="@+id/btn_cor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cor" />
+
+    <Button
+        android:id="@+id/btn_regracobranca"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/regra_cobran_a" />
+
+    <Button
+        android:id="@+id/btn_tppagamento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tipo_pagamento" />
+
+    <Button
+        android:id="@+id/btn_transportadora"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/transportadora" />
+
+    <Button
+        android:id="@+id/btn_produto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/produto" />
+
+    <Button
+        android:id="@+id/btn_produto_g"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/produtos_gest_o" />
+
+    <Button
+        android:id="@+id/btn_fidelidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fidelidade"
+        android:visibility="invisible"/>
+</LinearLayout>

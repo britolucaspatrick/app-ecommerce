@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:2:1-69:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d3b7375093495c1fc16a210fb0353f1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\35fe41904d3a1e18ea5bc7abbc6c26dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\925eb0fbbe0bcfd7c64222310d522d03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\91e45540beb90fc853ef04a672e709ee\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.satyan:sugar:1.5] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\sugar-1.5.aar\40d43230d2e4ab7d1503119b7b21fc1e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\1ae5b619b6733cf5756325c698b1197c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\1f3c57749aae055d4725202c38bd07b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62e6e9806fbcd5b46d55dc7e3ea1f8fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8beb1c00eb91d2e37dec4ed66d2919c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\44c824196cf21d6d7e78e9855c5f2ed3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\719bfdf4ab9c49f93e3f323eab4b0068\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\62b1c325a60a8025c7aa1d77b67b3166\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\25fcbed36900b146a4818b6832a65052\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\060dff721b1525313fbb8dfcc5466a06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e4cc0cc2dc68c1c3d5c60d650286970b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\13f7dee2ced8056eb94f709af7874fe8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\907c6e0e42df07ab5274fe25d50ee2ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\228ebee997503bb6a317d72131704cba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f3fa3a4d43bb444e0f29e0670de05a0b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3de5edf0e48b10e39d9a28ec391ae905\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:9:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:12:22-78
+application
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:14:5-67:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\91e45540beb90fc853ef04a672e709ee\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\91e45540beb90fc853ef04a672e709ee\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:19:9-50
+	android:icon
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:16:9-36
+	android:theme
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:21:9-40
+	tools:replace
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:22:9-37
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:15:9-40
+meta-data#DATABASE
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:23:9-25:43
+	android:value
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:25:13-40
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:24:13-36
+meta-data#VERSION
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:26:9-28:33
+	android:value
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:28:13-30
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:27:13-35
+meta-data#QUERY_LOG
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:29:9-31:36
+	android:value
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:31:13-33
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:30:13-37
+meta-data#DOMAIN_PACKAGE_NAME
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:32:9-34:58
+	android:value
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:34:13-55
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:33:13-47
+activity#com.example.patri.refinado.Activity.MainActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:36:9-38:59
+	android:theme
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:37:13-50
+activity#com.example.patri.refinado.Activity.MinhaContaActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:39:9-65
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:39:19-62
+activity#com.example.patri.refinado.Activity.ConfirmacaoDadosActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:40:9-71
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:40:19-68
+activity#com.example.patri.refinado.Activity.FavoritoActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:41:9-63
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:41:19-60
+activity#com.example.patri.refinado.Activity.CarrinhoActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:42:9-63
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:42:19-60
+activity#com.example.patri.refinado.Activity.CategoriaActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:43:9-64
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:43:19-61
+activity#com.example.patri.refinado.Activity.PedidosActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:44:9-62
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:44:19-59
+activity#com.example.patri.refinado.Activity.FidelidadeActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:45:9-65
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:45:19-62
+activity#com.example.patri.refinado.Activity.SacActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:46:9-58
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:46:19-55
+activity#com.example.patri.refinado.Activity.SplashActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:47:9-53:20
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:47:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:51:27-74
+activity#com.example.patri.refinado.Activity.LoginActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:54:9-60
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:54:19-57
+activity#com.example.patri.refinado.Activity.GestaoActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:55:9-61
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:55:19-58
+activity#com.example.patri.refinado.Activity.CadastroActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:56:9-63
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:56:19-60
+activity#com.example.patri.refinado.Activity.ProdutoActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:57:9-62
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:57:19-59
+activity#com.example.patri.refinado.Activity.ProdutoDetalhadoActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:58:9-71
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:58:19-68
+activity#com.example.patri.refinado.Activity.ConfiguracoesActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:59:9-68
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:59:19-65
+activity#com.example.patri.refinado.Activity.FormaEntregaActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:60:9-67
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:60:19-64
+activity#com.example.patri.refinado.Activity.PedidoFinalizado
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:61:9-63
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:61:19-60
+activity#com.example.patri.refinado.Activity.ListagemDinamicActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:62:9-70
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:62:19-67
+activity#com.example.patri.refinado.Activity.TutorialActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:63:9-65:59
+	android:theme
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:64:13-54
+activity#com.example.patri.refinado.Activity.BuscarActivity
+ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:66:9-70
+	android:name
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml:66:19-58
+uses-sdk
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d3b7375093495c1fc16a210fb0353f1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d3b7375093495c1fc16a210fb0353f1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\35fe41904d3a1e18ea5bc7abbc6c26dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\35fe41904d3a1e18ea5bc7abbc6c26dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\925eb0fbbe0bcfd7c64222310d522d03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\925eb0fbbe0bcfd7c64222310d522d03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\91e45540beb90fc853ef04a672e709ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\91e45540beb90fc853ef04a672e709ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.satyan:sugar:1.5] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\sugar-1.5.aar\40d43230d2e4ab7d1503119b7b21fc1e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.satyan:sugar:1.5] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\sugar-1.5.aar\40d43230d2e4ab7d1503119b7b21fc1e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\1ae5b619b6733cf5756325c698b1197c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\1ae5b619b6733cf5756325c698b1197c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\1f3c57749aae055d4725202c38bd07b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.1.1.aar\1f3c57749aae055d4725202c38bd07b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62e6e9806fbcd5b46d55dc7e3ea1f8fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\62e6e9806fbcd5b46d55dc7e3ea1f8fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8beb1c00eb91d2e37dec4ed66d2919c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8beb1c00eb91d2e37dec4ed66d2919c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\44c824196cf21d6d7e78e9855c5f2ed3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\44c824196cf21d6d7e78e9855c5f2ed3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\719bfdf4ab9c49f93e3f323eab4b0068\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\719bfdf4ab9c49f93e3f323eab4b0068\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\62b1c325a60a8025c7aa1d77b67b3166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\62b1c325a60a8025c7aa1d77b67b3166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\25fcbed36900b146a4818b6832a65052\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\25fcbed36900b146a4818b6832a65052\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\060dff721b1525313fbb8dfcc5466a06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\060dff721b1525313fbb8dfcc5466a06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e4cc0cc2dc68c1c3d5c60d650286970b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e4cc0cc2dc68c1c3d5c60d650286970b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\13f7dee2ced8056eb94f709af7874fe8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\13f7dee2ced8056eb94f709af7874fe8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\907c6e0e42df07ab5274fe25d50ee2ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\907c6e0e42df07ab5274fe25d50ee2ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\228ebee997503bb6a317d72131704cba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\228ebee997503bb6a317d72131704cba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f3fa3a4d43bb444e0f29e0670de05a0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f3fa3a4d43bb444e0f29e0670de05a0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3de5edf0e48b10e39d9a28ec391ae905\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3de5edf0e48b10e39d9a28ec391ae905\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\patri\Downloads\Refinado\app\src\main\AndroidManifest.xml

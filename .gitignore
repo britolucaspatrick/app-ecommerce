@@ -1,0 +1,9 @@
+
+.gradle/4.4/fileChanges/last-build.bin
+*.lock
+*.bin
+*.properties
+.idea/assetWizardSettings.xml
+.idea/*
+.app\*
+app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/arch/core/R.java

@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Refinado</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_minha_conta">Minha Conta</string>
+    <string name="email">E-mail</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="complemento">Complemento</string>
+    <string name="bairro">Bairro</string>
+    <string name="numero">Número</string>
+    <string name="cep">CEP</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+
+
+    <string name="title_activity_confirmacao_dados">Confirmação de dados</string>
+    <string name="formasdepagamento">Formas de pagamento</string>
+    <string name="cartaocredito">Cartão de crédito</string>
+    <string name="numerocartaocredito">XXXX-XXXX-XXXX-0000</string>
+    <string name="boleto">Boleto</string>
+    <string name="transferencia">Transferência</string>
+
+
+    <string name="carrinho">Carrinho</string>
+    <string name="remover">Remover</string>
+    <string name="title_activity_favorito">Favorito</string>
+
+
+    <string name="title_activity_carrinho">Carrinho</string>
+    <string name="image_produto">Imagem do produto</string>
+    <string name="produto_nome">Relógio</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="favoritar">Favoritar</string>
+
+
+    <string name="inicio">Início</string>
+    <string name="categoria">Categoria</string>
+    <string name="pedido">Pedido</string>
+    <string name="minha_conta">Minha conta</string>
+    <string name="configuracao">Configuração</string>
+    <string name="sac">SAC</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="title_activity_sac">SAC</string>
+    <string name="title_activity_configuracoes">Configurações</string>
+    <string name="title_activity_fidelidade">Fidelidade</string>
+    <string name="title_activity_pedidos">Pedidos</string>
+    <string name="title_activity_categoria">Categoria</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    <string name="gestao">Gestão</string>
+    <string name="senha_login">Senha</string>
+    <string name="usuario">Usuário</string>
+    <string name="esqueceu_a_senha">Esqueceu a senha</string>
+    <string name="entrar">Entrar</string>
+
+
+    <string name="pais">PAÍS</string>
+    <string name="c_nome_p">Nome</string>
+    <string name="c_prefixo_p">Prefixo</string>
+    <string name="c_salvar">Salvar</string>
+    <string name="c_listar">Listar</string>
+    <string name="c_excluir">Excluir</string>
+    <string name="salvar">Salvar</string>
+    <string name="alterar">Alterar</string>
+
+
+    <string name="cadastrar">Cadastrar</string>
+
+    <string name="msg_esqueceusenha">Informe seu e-mail de cadastro, será enviado uma nova senha para relembrar o login:</string>
+    <string name="enviar">Enviar</string>
+
+
+    <string name="estado1">ESTADO</string>
+    <string name="sigla">Sigla</string>
+    <string name="cor">Cor</string>
+    <string name="regra_cobran_a">Regra Cobrança</string>
+    <string name="unidade">Unidade</string>
+    <string name="valor">Valor</string>
+
+
+    <string name="tipo_pagamento">Tipo Pagamento</string>
+    <string name="fidelidade">Fidelidade</string>
+    <string name="pontos">Pontos</string>
+    <string name="transportadora">Transportadora</string>
+    <string name="produto">Produto</string>
+    <string name="descri_o">Descrição</string>
+    <string name="ean">EAN</string>
+    <string name="refer_ncia">Referência</string>
+    <string name="largura">Largura</string>
+    <string name="altura">Altura</string>
+    <string name="profundidade">Profundidade</string>
+    <string name="peso">Peso</string>
+    <string name="selecionar_cores">Selecionar Cores</string>
+    <string name="selecionar_categorias">Selecionar Categorias</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="selecionar_imagens">Selecionar Imagens</string>
+
+
+    <string name="confirmar">Confirmar</string>
+    <string name="logar_automaticamente">Logar automaticamente</string>
+
+
+    <string name="txt_ped_fina">Seu pedido foi recebido com sucesso pela equipe Refinado! Caso tenha alguma dúvida, entre em contato pelo SAC, sac@refinado.com.br. É possível acompanhar o status do pedido pela aba lateral, em pedidos. Agradecemos a preferência.</string>
+    <string name="produtos_gest_o">Produtos gestão</string>
+    <string name="sobrenom_e">Sobrenome</string>
+    <string name="cp_f">CPF</string>
+    <string name="pedidos_abertos">Pedidos Abertos</string>
+    <string name="pedidos_finalizados">Pedidos Finalizados</string>
+    <string name="relatar_erro">Relatar Erro</string>
+    <string name="finaliza_r">Finalizar</string>
+
+
+    <string name="add">Adicionar</string>
+    <string name="delete">Deletar</string>
+    <string name="save">Salvar</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="backup_data">Backup</string>
+    <string name="import_data">Import</string>
+    <string name="backup_before_import">Backup do banco de dados atual antes de importar um banco de dados antigo?</string>
+    <string name="select_file">Selecionar arquivo</string>
+    <string name="backup_empty">Arquivo backup está vazio</string>
+
+
+    <string name="telefon_e">Telefone</string>
+    <string name="anivers_rio">Aniversário</string>
+    <string name="refinado_com_br">refinado.com.br</string>
+</resources>
